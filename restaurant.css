@@ -260,5 +260,57 @@ contact page
   .contact-info p {
     margin-bottom: 5px;
   }
+
+  .head-h1{
+    font-size: 3.9rem;
+    text-shadow: 2px 2px 2px whitesmoke;
+    letter-spacing: 4px;
+    font-family:monospace;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 35px;
+  }
   
+  .footer {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+    text-align: center;
+  }
   
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .terms a {
+    text-decoration: none;
+    color: #0f07ee;
+  }
+  
+  .social-media a {
+    color: #333;
+    font-size: 20px;
+    margin: 0 5px;
+  }
+  
+  .social-media a:hover {
+    color: #ff6347;
+  }
+
+  .terms h6{
+    text-decoration: none;
+    color: #010101;
+    font-size: 1rem;
+    
+  }
+  .terms{
+    display: flex;
+    align-items:flex-start;
+    justify-content: flex-start;
+  }
